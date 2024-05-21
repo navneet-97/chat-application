@@ -1,0 +1,1 @@
+you have to just run index.js file by 'node index.js' into the terminal, after that just go live the index.html file.
