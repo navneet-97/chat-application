@@ -18,7 +18,7 @@ Welcome to the Real-Time Chat Application! This application is built using web d
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/chat-application.git
+    git clone https://github.com/navneet-97/chat-application.git
     cd chat-application
     ```
 
@@ -27,20 +27,12 @@ Welcome to the Real-Time Chat Application! This application is built using web d
     npm install
     ```
 
-3. **Set up environment variables**:
-    Create a `.env` file in the root directory and add the following variables:
-    ```env
-    PORT=8000
-    MONGODB_URI=your_mongodb_uri
-    SECRET_KEY=your_secret_key
-    ```
-
-4. **Run the application**:
+3. **Run the application**:
     ```bash
     npm start
     ```
 
-5. **Access the application**:
+4. **Access the application**:
     Open your browser and go to `http://localhost:8000`.
 
 
